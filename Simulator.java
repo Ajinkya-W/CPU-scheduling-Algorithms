@@ -8,7 +8,7 @@ import java.util.*;
 import java.lang.Math;
 /**
  *
- * @author Deepak
+ * @author Ajinkya
  */
 
 public class Simulator {
