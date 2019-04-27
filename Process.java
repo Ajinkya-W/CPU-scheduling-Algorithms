@@ -7,7 +7,7 @@ package javaapplication1;
 
 /**
  *
- * @author Deepak
+ * @author Ajinkya
  */
 public class Process {
         //AT arrival time BT burst time RT remaining time
