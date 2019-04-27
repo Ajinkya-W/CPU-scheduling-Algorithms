@@ -7,7 +7,7 @@ package javaapplication1;
 
 /**
  *
- * @author Deepak
+ * @author Deepak Ajinkya
  */
 public class RedBlackTree {
 
